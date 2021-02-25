@@ -1,6 +1,6 @@
 # 🏆TwitterPro
 
-<img src="https://www.hualigs.cn/image/6037bdb24a3ff.jpg" alt="1" style="zoom:33%;float:left;"  />
+<img src="https://www.hualigs.cn/image/6037bdb24a3ff.jpg" alt="1" style="zoom:15%"  />
 
 ![版本](https://img.shields.io/badge/Edition-Alpha-red)![](https://img.shields.io/github/issues/6get-xiaofan/TwitterPro)![](https://img.shields.io/github/stars/6get-xiaofan/TwitterPro)![](https://img.shields.io/github/forks/6get-xiaofan/TwitterPro)![](https://img.shields.io/badge/license-GPL%203.0-brightgreen)
 
